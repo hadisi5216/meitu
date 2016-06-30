@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/pic_type_name"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="ddfaf"
+        android:clickable="false"
+        android:textColor="@color/colorPrimary"
+        android:backgroundTint="@color/colorAccent"
+        android:layout_height="match_parent" />
+</LinearLayout>
